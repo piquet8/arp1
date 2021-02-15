@@ -1,4 +1,0 @@
-#! /bin/bash
-
-gcc main.c -o client
-gcc grandiorecchie.c -o server
